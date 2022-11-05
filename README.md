@@ -14,7 +14,7 @@ A web based social media application
 <h1> How to use: </h1> 
 
 
-<h3> Prerequisites: </h3> 
+<h2> Prerequisites: </h2> 
 
   <ul>
     <li> The machine needs to have MySQL server installed.</li>
@@ -22,14 +22,14 @@ A web based social media application
 </ul>
 
 
-<h3> Installation: </h3>
+<h2> Installation: </h2>
 
  <ol type="I">
      <li> Clone this repository </li>
      <li> Go to each folder and run the command npm i This will download all the project dependencies. </li>
 </ol>
 
-<h3> Environment setup: </h3>
+<h2> Environment setup: </h2>
 
    <ol type="I">
   <li> Open the file Globals.js located at myzone/services. 
@@ -40,7 +40,7 @@ A web based social media application
   jwtSecret="some random string" </li>
 </ol>
 
-<h3>Execution: </h3>
+<h2>Execution: </h2>
 
 <ol type="I">
   
