@@ -17,6 +17,7 @@ How to use:
 Prerequisites:
 
 ⦁	The machine needs to have MySQL server installed.
+
 ⦁	The machine needs to have Visual Studio Code installed
 
 
@@ -24,6 +25,7 @@ Prerequisites:
 Installation:
 
 I.	Clone this repository
+
 II.	Go to each folder and run the command
    npm i
      This will download all the project dependencies.
@@ -33,6 +35,7 @@ Environment setup
 
 I.	Open the file Globals.js located at myzone/services.
    Set the SERVER_IP_ADDRESS to your IPv4 address.
+   
 II.	Go to themyZone-API folder and create a file named
   .env
   Write the following content on the file:
