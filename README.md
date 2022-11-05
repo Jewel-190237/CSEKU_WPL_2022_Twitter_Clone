@@ -42,6 +42,9 @@ A web based social media application
 
 <h3>Execution: </h3>
 
-Every sub-project can be run individually by executing the command npm run start.
-So, open terminals into each of the 3 folders and execute the command.
-After that, Open localhost:3306 on your browser!
+<ol type="I">
+  
+<li> Every sub-project can be run individually by executing the command npm run start. </li>
+<li> So, open terminals into each of the 3 folders and execute the command.</li>
+<li> After that, Open localhost:3306 on your browser!</li>
+</ol>
