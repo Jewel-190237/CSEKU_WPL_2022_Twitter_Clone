@@ -1,8 +1,7 @@
 <h1>Twitter Clone: </h1> 
 A web based social media application
 
-
-Technologies used:
+<h1> Technologies used: </h1> 
 1.	PHP
 2.	Python
 3.	JavaScript
@@ -10,11 +9,11 @@ Technologies used:
 5.	MySQL
 6.	Bootstrap
 
-How to use:
+<h1> How to use: </h1> 
 
 
 
-Prerequisites:
+<h3> Prerequisites: </h3> 
 
 ⦁	The machine needs to have MySQL server installed.
 
@@ -22,7 +21,7 @@ Prerequisites:
 
 
 
-Installation:
+<h3> Installation: </h3>
 
 I.	Clone this repository
 
@@ -31,7 +30,7 @@ II.	Go to each folder and run the command
      This will download all the project dependencies.
 
 
-Environment setup
+<h3> Environment setup: </h3>
 
 I.	Open the file Globals.js located at myzone/services.
    Set the SERVER_IP_ADDRESS to your IPv4 address.
@@ -42,7 +41,7 @@ II.	Go to themyZone-API folder and create a file named
   jwtSecret="some random string"
 
 
-Execution:
+<h3>Execution: </h3>
 
 Every sub-project can be run individually by executing the command npm run start.
 So, open terminals into each of the 3 folders and execute the command.
