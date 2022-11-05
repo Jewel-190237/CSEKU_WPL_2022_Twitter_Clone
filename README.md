@@ -24,12 +24,10 @@ A web based social media application
 
 <h3> Installation: </h3>
 
-I.	Clone this repository
-
-II.	Go to each folder and run the command
-   npm i
-     This will download all the project dependencies.
-
+ <ul style="list-style-type:disc;">
+  <li> Clone this repository </li>
+	 <li> Go to each folder and run the command npm i This will download all the project dependencies. </li>
+</ul>
 
 <h3> Environment setup: </h3>
 
