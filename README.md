@@ -27,18 +27,18 @@ A web based social media application
  <ol type="I">
      <li> Clone this repository </li>
      <li> Go to each folder and run the command npm i This will download all the project dependencies. </li>
-</0l>
+</ol>
 
 <h3> Environment setup: </h3>
 
-I.	Open the file Globals.js located at myzone/services.
-   Set the SERVER_IP_ADDRESS to your IPv4 address.
+   <ol type="I">
+  <li> Open the file Globals.js located at myzone/services. 
+    Set the SERVER_IP_ADDRESS to your IPv4 address. </li>
    
-II.	Go to themyZone-API folder and create a file named
-  .env
+<li> Go to themyZone-API folder and create a file named .env 
   Write the following content on the file:
-  jwtSecret="some random string"
-
+  jwtSecret="some random string" </li>
+</ol>
 
 <h3>Execution: </h3>
 
