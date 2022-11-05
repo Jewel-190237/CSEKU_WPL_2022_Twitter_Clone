@@ -2,23 +2,24 @@
 A web based social media application
 
 <h1> Technologies used: </h1> 
-1.	PHP
-2.	Python
-3.	JavaScript
-4.	CSS
-5.	MySQL
-6.	Bootstrap
+<ol>
+  <li>PHP</li>
+  <li>Python</li>
+  <li>JavaScript</li>
+  <li>CSS</li>
+  <li>MySQL</li>
+  <li>Bootstrap</li>
+</ol>
 
 <h1> How to use: </h1> 
 
 
-
 <h3> Prerequisites: </h3> 
 
-⦁	The machine needs to have MySQL server installed.
-
-⦁	The machine needs to have Visual Studio Code installed
-
+  <ul>
+    <li> The machine needs to have MySQL server installed.</li>
+    <li> The machine needs to have Visual Studio Code installed. </li>
+</ul>
 
 
 <h3> Installation: </h3>
